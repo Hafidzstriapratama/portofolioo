@@ -9,7 +9,7 @@ function Intro() {
                 <h1>Hafidz satria pratama</h1>
                 <p>Web Developer</p>
                 
-                <a target="_blank" href="https://instagram.com/_mfth89?igshid=YTQwZjQ0NmI0OA==" className="social-media">
+                <a target="_blank" href="https://instagram.com/hfdzstria?igshid=MzMyNGUyNmU2YQ==" className="social-media">
                     <i class="bi bi-instagram"></i>
                 </a>
                 <a target="_blank" href="https://github.com/Hafidzstriapratama" className="social-media">
