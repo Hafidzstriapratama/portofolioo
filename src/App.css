@@ -1,0 +1,19 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+.section {
+  min-height: 100vh;
+  background: linear-gradient(rgb(0, 81, 255),rgb(240, 240, 243));
+  display: flex;
+  align-items: center;
+}
+.avatar {
+  width: 200px;
+  border-radius: 100px;
+}
+.social-media{
+  font-size: 30px;
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+  transform: scale(1);
+  transition: 0,5s;
+}

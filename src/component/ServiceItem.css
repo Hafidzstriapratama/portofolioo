@@ -1,0 +1,7 @@
+.card {
+    transition: 0.8s;
+    border-left: black solid 5px;
+}
+.card:hove {
+    transform: rotateX('38deg');
+}
